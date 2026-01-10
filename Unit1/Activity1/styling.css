@@ -1,0 +1,24 @@
+body {
+    background-color: gray;
+    text-align: center;
+    /*TODO 2: Center everything horizontally on the screen (including text) */
+}
+
+h1 {
+    font-weight: bold;
+}
+
+img {
+max-width: 400px;
+height: auto;
+border-radius: 23px;
+}
+
+.p-red {
+    color: red;
+}
+
+.photo-container {
+    max-width: 400px;
+}
+/* TODO 3: Add style for div so that it contains p. Hint: This should only take one attribute. */
